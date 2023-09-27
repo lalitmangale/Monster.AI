@@ -15,6 +15,8 @@ Get API Key : https://platform.openai.com/account/api-keys
 
 ChatGPT : https://chat.openai.com/
 
+Project Folder G-Drive ; https://drive.google.com/drive/folders/1TzbGyi3ivzyYzAewV0-SdHFOvq7D_TXa?usp=drive_link
+
 Project Objectives :-
 
 1. Create a Chatbot: Develop a chatbot capable of understanding and responding to user inputs.
